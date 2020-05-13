@@ -19,4 +19,4 @@ npm run build --report
 ```
 
 首页截图：
-![Image text](./projectImg/首页截图.png)
+![Image text](projectImg/home.png)
